@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ravinder Amenariya
 
-<!--
-**ravinderamenariya/ravinderamenariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer passionate about building scalable web applications with React, Node.js, and Python. I love clean code, open-source contributions, and solving real-world problems.
 
-Here are some ideas to get you started:
+- I'm currently working on **modern web applications & SaaS products**
+- I'm always learning new technologies and improving my craft
+- Ask me about **React, Node.js, Python, System Design**
+- Find me on LinkedIn or reach out via email
+- Fun fact: I write daily articles about web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python, HTML/CSS
+
+**Frontend:** React, Next.js, Tailwind CSS, Expo
+
+**Backend:** Node.js, Express, REST APIs
+
+**Databases:** MongoDB, PostgreSQL, Firebase
+
+**Tools:** Git, Docker, AWS, Vercel
+
+## My Activities
+
+- Daily articles on web development at [DA Daily Articles](https://github.com/ravinderamenariya/DA-Daily-Articles-/)
+- Writing about best practices and lessons learned
+- Open to collaboration on interesting projects
+
+---
+
+*Let's connect and build something great together!*
